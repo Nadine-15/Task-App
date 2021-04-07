@@ -5,7 +5,7 @@ This is a basic App to manage simple Notes on the web using Javascript Technolog
 This app can do:
 
 - CRUD Operations: create/read/update/delete Notes
-- Allows a user to do login and save his personal notes
+- Allows a user to do login and save their personal notes
 
 
 # Environment Variables
